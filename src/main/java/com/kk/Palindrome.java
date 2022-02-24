@@ -25,5 +25,4 @@ public class Palindrome {
 		    
 			System.out.println(p + " is not a Palindrome : " + isPalindrome);
 		}		
-	
-}
+	}
