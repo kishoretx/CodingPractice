@@ -4,10 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class StringPrograms {
-
-
-		
+public class Palindrome {		
 
 		public static void main(String args[]) {
 
@@ -27,8 +24,6 @@ public class StringPrograms {
 			}
 		    
 			System.out.println(p + " is not a Palindrome : " + isPalindrome);
-		}
-
-		
+		}		
 	
 }
